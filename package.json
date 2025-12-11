@@ -61,7 +61,7 @@
     ]
   },
   "dependencies": {
-    "@actions/core": "^1.11.1",
+    "@actions/core": "^2.0.1",
     "@actions/io": "^2.0.0",
     "find-in-files": "^0.5.0",
     "node-fetch": "^3.3.2",
@@ -75,7 +75,7 @@
     "@semantic-release/git": "^10.0.1",
     "@types/find-in-files": "^0.5.3",
     "@types/jest": "^30.0.0",
-    "@types/node": "^24.10.2",
+    "@types/node": "^25.0.0",
     "@types/semver": "^7.7.1",
     "@typescript-eslint/eslint-plugin": "^8.49.0",
     "@typescript-eslint/parser": "^8.49.0",
